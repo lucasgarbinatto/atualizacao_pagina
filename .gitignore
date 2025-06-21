@@ -1,0 +1,91 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test
+.coverage
+coverage/
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Misc
+*.sqlite
+*.sqlite3
+*.rdb
+*.swp
+*.swo
+*~
+
+# Lock files
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Output
+.svelte-kit/
+.next/
+.nuxt/
+.out
+storybook-static
+
+# Cypress/Playwright
+cypress/videos/
+cypress/screenshots/
+playwright-report/
+
+# Firebase/Vercel
+.firebase/
+.vercel/
+
+# Docker
+*.override.yml
+
+# Backup
+*.bak
+*.tmp
+*.temp
+
+# Ignore moodle cookies
+moodle_cookies.json
